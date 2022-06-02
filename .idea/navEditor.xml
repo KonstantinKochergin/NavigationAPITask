@@ -190,6 +190,16 @@
                                 <LayoutPositions />
                               </value>
                             </entry>
+                            <entry key="deepLink">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                            <entry key="deepLink4">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
                           </map>
                         </option>
                       </LayoutPositions>
